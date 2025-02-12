@@ -1,4 +1,4 @@
-# Aesthetic-Login-Form
+# Aesthetic Login Form
 
 Cool aesthetic login form with a glassmorphism effect. It's not functionnal. Just made for the front-end learning.
 
